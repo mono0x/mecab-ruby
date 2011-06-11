@@ -11,7 +11,6 @@ Ruby bindings for MeCab, a morphological analyzer.
 	s.files = [ 'AUTHORS', 'BSD', 'COPYING', 'GPL', 'LGPL',
 		'MeCab_wrap.cpp', 'README', 'bindings.html',
 		'extconf.rb', 'mecab-ruby.gemspec', 'test.rb' ]
-	s.has_rdoc = false
 	s.homepage = 'http://mecab.sourceforge.net/'
 	s.summary = 'Ruby bindings for MeCab.'
 end
